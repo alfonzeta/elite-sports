@@ -78,7 +78,7 @@ const FileToHtmlConverter = () => {
                 Process File
             </button>
             {downloadLink && (
-                <a href={downloadLink} download={filename ? filename.replace('.txt', '.html') : 'output.html'}>
+                <a className='anchor-download' href={downloadLink} download={filename ? filename.replace('.txt', '.html') : 'output.html'}>
                     Download {filename} as HTML File
                 </a>
             )}

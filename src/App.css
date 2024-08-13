@@ -59,3 +59,16 @@ h1 {
   height: 40px;
   border-radius: 3px;
 }
+
+.anchor-download {
+  background-color: rgb(46, 59, 45);
+  height: 40px;
+  display: block;
+  color: white;
+  border: 1px solid rgb(84, 194, 98);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 6px;
+  border-radius: 3px;
+}
