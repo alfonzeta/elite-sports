@@ -4,7 +4,17 @@ File to HTML Converter
 Overview
 --------
 
-**File to HTML Converter** is a React-based web application that allows users to upload a `.txt` file and convert its content into a downloadable HTML file. The application processes the text to create an HTML file that includes an index of chapters (identified by lines starting with "CHAPTER"), counts the number of lines, and identifies the longest word in the file. The resulting HTML can be downloaded directly from the application.
+File to HTML Converter is a React-based web application designed to demonstrate proficiency in front-end development and JavaScript as part of a technical test for a job application. The application allows users to upload a .txt file and convert its content into a downloadable HTML file. The conversion process includes generating an index of chapters, counting the number of lines with text, and identifying the longest word in the file.
+
+Project Purpose
+--------
+This project was created as part of a technical assessment for a job application. The goal was to showcase skills in:
+
+- React development and component-based architecture.
+- Handling file uploads and processing text files in a web application.
+- Generating and manipulating HTML content dynamically.
+- Implementing a user-friendly interface with responsive design principles.
+- Writing clean, maintainable code with clear documentation.
 
 Features
 --------
